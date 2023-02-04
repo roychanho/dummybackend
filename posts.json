@@ -1,9 +1,1 @@
-{
-  "posts": [
-    {
-      "body": "This course is hopefully very helpful to you!",
-      "author": "Maximilian",
-      "id": "post-1"
-    }
-  ]
-}
+{"posts":[{"body":"test1","author":"dasdsa","id":"0.13707161551700442"},{"body":"testing","author":"test","id":"0.5964915114778928"},{"body":"This course is hopefully very helpful to you!","author":"Maximilian","id":"post-1"}]}
